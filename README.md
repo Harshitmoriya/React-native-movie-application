@@ -1,6 +1,9 @@
 # WatchFlix
 
-https://github.com/Harshitmoriya/React-native-movie-application/assets/56078987/80114c66-7541-4153-8271-ade441541e14
+
+
+https://github.com/Harshitmoriya/React-native-movie-application/assets/56078987/ba654b43-c41e-4d1c-a6ed-ed1d1b5648f5
+
 
 Welcome to WatchFlix, a React Native application that allows users to browse movies using the TMDB API. This app provides a user-friendly interface to discover popular, upcoming, and top-rated movies, as well as search for specific movies.
 ## Features
